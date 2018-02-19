@@ -1,2 +1,2 @@
 hello world
-added new feature
+added new features
